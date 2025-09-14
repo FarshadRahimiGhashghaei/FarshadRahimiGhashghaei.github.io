@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Enhancing Sniffing Detection in IoT Home Wi-Fi Networks: An Ensemble Learning Approach With Network Monitoring System (NMS)"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+#permalink: /publication/2009-10-01-paper-title-number-1
+excerpt: 'Network packet sniffing is one of the techniques that is widely used in the network and cyber security fields. However, sniffing can also be used as a malicious technique that allows threat actors to intercept and capture data flow to collect various information within the victim network. Where the wireless network environment can be vulnerable to sniffing vulnerabilities attacks due to the broadcasting function of Wi-Fi network. Wi-Fi access point devices can often be compromised, and critical information is leaked through sniffing attacks. Moreover, since sniffing is usually one of passive attacks, it is very challenging to detect sniffing activity in the network completely. The primary aim of this research is to contribute to enhancing the security of Internet of Things (IoT) home Wi-Fi systems. This is achieved by applying ensemble machine learning technology with sniffing detection methods using a Network Monitoring System (NMS) to effectively identify and mitigate potential sniffing behaviour within the IoT home Wi-Fi environment. Ultimately, this research will prove whether it is possible to precisely detect abnormal sniffing in a smart home Wi-Fi environment using machine learning techniques.'
+date: 2024-06-18
+venue: 'IEEE Access'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://doi.org/10.1109/ACCESS.2024.3416095'
+#bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+#citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Network packet sniffing is one of the techniques that is widely used in the network and cyber security fields. However, sniffing can also be used as a malicious technique that allows threat actors to intercept and capture data flow to collect various information within the victim network. Where the wireless network environment can be vulnerable to sniffing vulnerabilities attacks due to the broadcasting function of Wi-Fi network. Wi-Fi access point devices can often be compromised, and critical information is leaked through sniffing attacks. Moreover, since sniffing is usually one of passive attacks, it is very challenging to detect sniffing activity in the network completely. The primary aim of this research is to contribute to enhancing the security of Internet of Things (IoT) home Wi-Fi systems. This is achieved by applying ensemble machine learning technology with sniffing detection methods using a Network Monitoring System (NMS) to effectively identify and mitigate potential sniffing behaviour within the IoT home Wi-Fi environment. Ultimately, this research will prove whether it is possible to precisely detect abnormal sniffing in a smart home Wi-Fi environment using machine learning techniques.
