@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Enhancing the Security of Classical Communication with Post-Quantum Authenticated-Encryption Schemes for the Quantum Key Distribution"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+#permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This research aims to establish a secure system for key exchange by using post-quantum cryptography (PQC) schemes in the classic channel of quantum key distribution (QKD). Modern cryptography faces significant threats from quantum computers, which can solve classical problems rapidly. PQC schemes address critical security challenges in QKD, particularly in authentication and encryption, to ensure the reliable communication across quantum and classical channels. The other objective of this study is to balance security and communication speed among various PQC algorithms in different security levels, specifically CRYSTALS-Kyber, CRYSTALS-Dilithium, and Falcon, which are finalists in the National Institute of Standards and Technology (NIST) Post-Quantum Cryptography Standardization project. The quantum channel of QKD is simulated with Qiskit, which is a comprehensive and well-supported tool in the field of quantum computing. By providing a detailed analysis of the performance of these three algorithms with Rivest–Shamir–Adleman (RSA), the results will guide companies and organizations in selecting an optimal combination for their QKD systems to achieve a reliable balance between efficiency and security. Our findings demonstrate that the implemented PQC schemes effectively address security challenges posed by quantum computers, while keeping the the performance similar to RSA.'
+date: 2024-07-01
+venue: 'Computers'
+#slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'https://doi.org/10.3390/computers13070163'
+#citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This research aims to establish a secure system for key exchange by using post-quantum cryptography (PQC) schemes in the classic channel of quantum key distribution (QKD). Modern cryptography faces significant threats from quantum computers, which can solve classical problems rapidly. PQC schemes address critical security challenges in QKD, particularly in authentication and encryption, to ensure the reliable communication across quantum and classical channels. The other objective of this study is to balance security and communication speed among various PQC algorithms in different security levels, specifically CRYSTALS-Kyber, CRYSTALS-Dilithium, and Falcon, which are finalists in the National Institute of Standards and Technology (NIST) Post-Quantum Cryptography Standardization project. The quantum channel of QKD is simulated with Qiskit, which is a comprehensive and well-supported tool in the field of quantum computing. By providing a detailed analysis of the performance of these three algorithms with Rivest–Shamir–Adleman (RSA), the results will guide companies and organizations in selecting an optimal combination for their QKD systems to achieve a reliable balance between efficiency and security. Our findings demonstrate that the implemented PQC schemes effectively address security challenges posed by quantum computers, while keeping the the performance similar to RSA.
