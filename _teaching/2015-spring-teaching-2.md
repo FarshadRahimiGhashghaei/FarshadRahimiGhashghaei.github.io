@@ -1,20 +1,25 @@
 ---
-title: "Teaching experience 2"
+title: "Workshop Instructor – Techniques for Increasing Focus & Motivation"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Educational Workshop"
+#permalink: /teaching/2025-time-management-workshop
+venue: "International Conference on Transformative Research of Iran’s Advancement Officers"
+date: 2025-08-01
+location: "Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Served as an instructor in the educational workshop **“Techniques for Increasing Focus and Motivation in Inactive Students”** for a total of **24 hours**.
 
-Heading 1
-======
+## Responsibilities
 
-Heading 2
-======
+- Teaching practical techniques to improve student focus and motivation
+- Introducing cognitive and behavioral strategies for increasing classroom engagement
+- Guiding participants through interactive activities and applied learning methods
+- Supporting educators in addressing academic inactivity and low student participation
 
-Heading 3
-======
+## Certificate Details
+
+- Role: Workshop Instructor
+- Duration: 24 hours
+- Certificate Issue Date: 2025/08/01
+- Recipient: Farshad Rahimi Ghashghaei
