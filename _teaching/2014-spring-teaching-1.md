@@ -1,20 +1,25 @@
 ---
-title: "Teaching experience 1"
+title: "Workshop Instructor – Time Management & Optimization Strategies"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Educational Workshop"
+#permalink: /teaching/2025-time-management-workshop
+venue: "International Conference on Transformative Research of Iran’s Advancement Officers"
+date: 2025-02-08
+location: "Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Served as an instructor in the educational workshop **“Optimization Strategies and Effective Time Management in the Classroom”** for a total of **24 hours**.
 
-Heading 1
-======
+## Responsibilities
 
-Heading 2
-======
+- Teaching workshop sessions on classroom time management
+- Presenting optimization strategies for educational environments
+- Supporting participants through interactive instruction and discussion
+- Contributing to professional development and academic training initiatives
 
-Heading 3
-======
+## Certificate Details
+
+- Role: Workshop Instructor
+- Duration: 24 hours
+- Certificate Issue Date: 2025/02/08
+- Recipient: Farshad Rahimi Ghashghaei
