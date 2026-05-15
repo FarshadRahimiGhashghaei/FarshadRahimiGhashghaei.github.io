@@ -3,7 +3,7 @@ title: "Workshop Instructor – Time Management & Optimization Strategies"
 collection: teaching
 type: "Educational Workshop"
 #permalink: /teaching/2025-time-management-workshop
-venue: "International Conference on Transformative Research of Iran’s Advancement Officers"
+venue: "Dana Mandegar Pars Institute"
 date: 2025-02-08
 location: "Iran"
 ---
