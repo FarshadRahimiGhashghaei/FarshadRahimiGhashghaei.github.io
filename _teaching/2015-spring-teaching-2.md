@@ -3,7 +3,7 @@ title: "Workshop Instructor – Techniques for Increasing Focus & Motivation"
 collection: teaching
 type: "Educational Workshop"
 #permalink: /teaching/2025-time-management-workshop
-venue: "International Conference on Transformative Research of Iran’s Advancement Officers"
+venue: "Dana Mandegar Pars Institute"
 date: 2025-08-01
 location: "Iran"
 ---
